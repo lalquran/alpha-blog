@@ -1,24 +1,7 @@
-# README
+# alpha-blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+IN PROGRESS
 
-Things you may want to cover:
+Ruby on Rails based blog application. Finished product will allow users to create accounts, post blogs, and interact with other users. Implements RoR, Bootstrap, CSS, HTML.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Deployed to: https://alpha-blog-laith.herokuapp.com/
